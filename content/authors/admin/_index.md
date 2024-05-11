@@ -1,6 +1,10 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Claurence Lee
+
+# Full name (for SEO)
+first_name: Claurence
+last_name: Lee
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +14,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Organizations/Affiliations
 #organizations:
@@ -20,10 +24,10 @@ status:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 #education:
 #  courses:
@@ -45,12 +49,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://github.com/limengf1218
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://www.linkedin.com/in/claurence-lee-70582b213/
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
@@ -66,8 +70,6 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Hello, I'm Claurence Lee, an AI Engineer with a B.Sc. in Statistics from the National University of Singapore. I specialize in developing advanced AI solutions, leading projects that enhance technological capabilities and operational efficiency. My expertise spans AI model development, system integration, and project management, with a strong background in machine learning, natural language processing, and computer vision. I'm driven by challenges and committed to leveraging AI to solve real-world problems efficiently and innovatively.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
