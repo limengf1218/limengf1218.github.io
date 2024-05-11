@@ -25,7 +25,7 @@ experience:
   - title: B.Sc. in Statistics
     company: National University of Singapore
     company_url: 'https://nus.edu.sg/'
-    company_logo: org-x
+    company_logo: NUS
     location: Singapore
     date_start: '2014-09-01'
     date_end: '2017-06-01'

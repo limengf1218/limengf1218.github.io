@@ -31,9 +31,9 @@ item:
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
-  - certificate_url: \content\about\cert.pdf
-    date_end: ''
-    date_start: '2022-07-25'
+  - certificate_url: about/cert.pdf
+    date_end: '2022-6-30'
+    date_start: '2021-09-1'
     description: ''
     organization: Lithan
     organization_url: https://www.lithan.com/
