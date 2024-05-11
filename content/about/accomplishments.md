@@ -32,7 +32,7 @@ item:
     title: Neural Networks and Deep Learning
     url: ''
   - certificate_url: about/cert.pdf
-    date_end: '2022-6-30'
+    date_end: '2022-06-30'
     date_start: '2021-09-01'
     description: ''
     organization: Lithan
