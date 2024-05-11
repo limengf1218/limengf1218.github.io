@@ -33,7 +33,7 @@ item:
     url: ''
   - certificate_url: about/cert.pdf
     date_end: '2022-6-30'
-    date_start: '2021-09-1'
+    date_start: '2021-09-01'
     description: ''
     organization: Lithan
     organization_url: https://www.lithan.com/
