@@ -31,11 +31,11 @@ item:
     organization_url: https://www.coursera.org
     title: Neural Networks and Deep Learning
     url: ''
-  - certificate_url: /cert.pdf
+  - certificate_url: \content\about\cert.pdf
     date_end: ''
     date_start: '2022-07-25'
     description: ''
-    organization: edX
+    organization: Lithan
     organization_url: https://www.lithan.com/
     title: Professional Diploma in Artificial Intellegence
     url: ''
